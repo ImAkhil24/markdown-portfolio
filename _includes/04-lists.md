@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- I like to code and play videogames.
+- I enjoy playing chess and binging random movies.
+- I used to play basketball in my college days and I love taking part in programming contests.
