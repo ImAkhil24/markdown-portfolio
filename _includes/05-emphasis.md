@@ -1,3 +1,3 @@
 - I'm a great problem solver who is equipped with good **programming** and **alogrithmic** skill set which I acquired from my competitive programming journey.
 - I also do Web Development where I use my prolem solving skills to solve the real world problems.
-- The tech Stack I am familiar is MERN(MonogoDB, Express, React and NodeJS).
+- The tech Stack I am familiar with is MERN(MonogoDB, Express, React and NodeJS).
